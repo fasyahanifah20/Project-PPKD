@@ -1,8 +1,8 @@
 void main() {
   String char = '*';
   int i = 0;
-  while (i <= 5) {
+  while (i < 5) {
     i++;
-  print("$char");
+    print("$char");
   }
 }
